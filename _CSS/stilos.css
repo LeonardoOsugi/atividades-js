@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffotos-gratis%2Ftela-inteira-cromo-metal-abstrato-como-plano-de-fundo-imagem-3d_476363-5762.jpg&imgrefurl=https%3A%2F%2Fbr.freepik.com%2Ffotos-premium%2Ftela-inteira-cromo-metal-abstrato-como-plano-de-fundo-imagem-3d_16348084.htm&tbnid=wVWTw2Ny31LvtM&vet=12ahUKEwiV4JvGjeT3AhVSOLkGHelbCQYQMygCegUIARDHAQ..i&docid=jVoi4AZYDtimOM&w=626&h=368&q=imagens%20de%20tela%20inteira&ved=2ahUKEwiV4JvGjeT3AhVSOLkGHelbCQYQMygCegUIARDHAQ);
+}
+
+p {
+     background-color: black;
+     color: white;
+}
+h1{
+    background-color: blue;
+}
+button{
+    background-color: green;
+}
